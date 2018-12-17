@@ -1,0 +1,6 @@
+What's Inside
+=============
+
+
+This is a full documentation on how to use Powerfix Pos Transaction
+solely built in Python - Django - Oscar Library Frameworks
