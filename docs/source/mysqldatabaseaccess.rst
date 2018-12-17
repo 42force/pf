@@ -28,7 +28,7 @@ There are two ways to access Powerfix POS DATABASE
 
   1. Click the + icon to create a new connection
 
-  2. Input your instance connection as described
+  2. Input your instance connection from google as described
 
   3. Test Connection
 
@@ -39,6 +39,6 @@ There are two ways to access Powerfix POS DATABASE
 
   Inside the dashboard you will have the following
 
-  1. Look for your database named POS 
+  1. Look for your database named POS
 
   .. image:: _static/sqlwbdashboard.png
